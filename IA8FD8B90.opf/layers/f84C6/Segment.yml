@@ -1,0 +1,39 @@
+id: cdc771c8211148229e0e45cd25537a26
+annotation_type: Segment
+revision: '00001'
+annotations:
+  722a0b3ed7f34017999b01313ba31f38:
+    span:
+      start: 0
+      end: 34
+    metadata: {}
+  85a7ab581d934ae8a93be2dfb6f71b7e:
+    span:
+      start: 36
+      end: 68
+    metadata: {}
+  9cff1d28fb9d490689ab06b5d3770957:
+    span:
+      start: 70
+      end: 309
+    metadata: {}
+  a84a26418f7a45878455459ca9a7a384:
+    span:
+      start: 311
+      end: 503
+    metadata: {}
+  f340e444dcbd4871bd91b427b35134d1:
+    span:
+      start: 505
+      end: 727
+    metadata: {}
+  4e6c1a01e5f34e1d9891ca728e95e16f:
+    span:
+      start: 729
+      end: 815
+    metadata: {}
+  1bbf1bcad9e24349a9aeed8b4e9e5703:
+    span:
+      start: 817
+      end: 929
+    metadata: {}
